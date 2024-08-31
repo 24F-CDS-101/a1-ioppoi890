@@ -57,4 +57,3 @@ The output of first line of code is not printed out because it is assigned to a 
 ggplot2::qplot(data = iris, x = Sepal.Length, y = Sepal.Width)
 ```
 
-
